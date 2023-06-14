@@ -34,13 +34,14 @@ The Holy Quran is the most sacred book for Muslims all over the world and many p
 
 ## Design & Demo 
 
-![Screenshot 2023-06-12 145726](https://github.com/mt057/Holy-Quran-Recitation-Assistant/assets/82698555/ad96b067-9474-460b-b483-e5eddf85599d)
+![Screenshot 2023-06-12 145726](https://github.com/mt057/Holy-Quran-Recitation-Assistant/assets/82698555/c689c9f1-1f4a-422f-8936-09bed0d35613)
 
-![Screenshot 2023-06-12 145816](https://github.com/mt057/Holy-Quran-Recitation-Assistant/assets/82698555/86e379b9-807e-497d-bdcf-4433041d74a6)
 
-![Screenshot 2023-06-12 145849](https://github.com/mt057/Holy-Quran-Recitation-Assistant/assets/82698555/20a6fad4-61b5-4478-88d7-396eb575f9b3)
+![Screenshot 2023-06-12 145816](https://github.com/mt057/Holy-Quran-Recitation-Assistant/assets/82698555/c694a8ef-1f00-4f64-ba6a-1fd5662113f3)
 
-![Screenshot 2023-06-12 145920](https://github.com/mt057/Holy-Quran-Recitation-Assistant/assets/82698555/974bf738-1bb4-4d8b-ac10-d74d2da3dfc6)
+![Screenshot 2023-06-12 145849](https://github.com/mt057/Holy-Quran-Recitation-Assistant/assets/82698555/4b8975ab-c576-41a3-a505-99e6cdfe9d63)
+
+![Screenshot 2023-06-12 145920](https://github.com/mt057/Holy-Quran-Recitation-Assistant/assets/82698555/cdd2d2b1-9fa7-4cb6-aee4-d49f59700942)
 
 ## Consclusion
 <p align="justify">
