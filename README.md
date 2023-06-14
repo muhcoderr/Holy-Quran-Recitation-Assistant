@@ -32,3 +32,17 @@ The Holy Quran is the most sacred book for Muslims all over the world and many p
 
 • Language: python 3.9
 
+## Design & Demo 
+
+![Screenshot 2023-06-12 145726](https://github.com/mt057/Holy-Quran-Recitation-Assistant/assets/82698555/ad96b067-9474-460b-b483-e5eddf85599d)
+
+![Screenshot 2023-06-12 145816](https://github.com/mt057/Holy-Quran-Recitation-Assistant/assets/82698555/86e379b9-807e-497d-bdcf-4433041d74a6)
+
+![Screenshot 2023-06-12 145849](https://github.com/mt057/Holy-Quran-Recitation-Assistant/assets/82698555/20a6fad4-61b5-4478-88d7-396eb575f9b3)
+
+![Screenshot 2023-06-12 145920](https://github.com/mt057/Holy-Quran-Recitation-Assistant/assets/82698555/974bf738-1bb4-4d8b-ac10-d74d2da3dfc6)
+
+## Consclusion
+<p align="justify">
+At the end of this project, we will get a system that can listen to the recitation of the user and can track whether the reciter is reciting the Holy Quran correctly. In case of an incorrect sequence of recitation, the system will be able to point out the mistakes and let the user correct himself. The system will be able to give the user the luqma so that the user can continue the correct recitation. Moreover, our system will be able to track user progress and thus user can track his progress after intervals and thus see if he is making positive progress or not. We will get an efficient working methodology using modern technological concepts in building an Arabic speech recognition application for the Holy Quran. We hope that at the end of the project users will independently learn the Holy Quran and improve their memorization of the Qur'an. The findings from this system inspire motivation to carry out further research to develop an enhanced version of the proposed system. 
+</p>
